@@ -18,7 +18,7 @@ root {
 	margin-right: auto;
 	margin-top: 0;
 	margin-left: auto;
-        background: url(log.jpg) no-repeat left 100px;
+        background: url(logo.jpg) no-repeat left 100px;
         font-size: 30px;
         color: gray;
         text-align: center;
